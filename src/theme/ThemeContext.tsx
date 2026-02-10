@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect, useMemo } from 'react';
-import { ThemeProvider, createTheme } from '@mui/material';
+import { ThemeProvider } from '@mui/material';
 import { lightTheme, darkTheme } from '../theme';
 
 type ThemeMode = 'light' | 'dark';

@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
 
-import { Component, ErrorInfo, ReactNode } from 'react';
+import type { ErrorInfo, ReactNode} from 'react';
+import { Component } from 'react';
 
 class ErrorBoundary extends Component<{ children: ReactNode }, { hasError: boolean; error: Error | null; errorInfo: ErrorInfo | null }> {
   constructor(props: { children: ReactNode }) {
