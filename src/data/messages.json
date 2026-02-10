@@ -1,0 +1,124 @@
+{
+  "emails": [
+    {
+      "id": "1",
+      "sender": "Jack Smith",
+      "senderEmail": "jack.s@biz.com",
+      "subject": "New Business Opportunities",
+      "preview": "Dear Sam, Hope this email finds you well. I would like t...",
+      "content": "Dear Sam,\n\nHope this email finds you well. I would like to discuss the new expansion plans for the Q3 fiscal year.",
+      "time": "Now",
+      "read": false
+    },
+    {
+      "id": "2",
+      "sender": "Sarah Pruett",
+      "senderEmail": "s.pruett@agency.io",
+      "subject": "RE: Project Progress",
+      "preview": "Reminder on the mentioned bel...",
+      "content": "Hi Sam, checking in on the progress of the design tokens.",
+      "time": "Yesterday",
+      "read": true
+    },
+    {
+      "id": "3",
+      "sender": "Jasmine Fields",
+      "senderEmail": "j.fields@cloudcorp.com",
+      "subject": "LPO Created",
+      "preview": "Hello Sam, Could you please sign the issued LPO for the new pur...",
+      "content": "Hello Sam, Could you please sign the issued LPO for the new purchase order we discussed? We need it by end of day to proceed with the procurement.",
+      "time": "Yesterday",
+      "read": false
+    },
+    {
+      "id": "4",
+      "sender": "Dan Trovalds",
+      "senderEmail": "dan.t@insurance-docs.net",
+      "subject": "Insurance Requested Documents",
+      "preview": "Dear Sam, I hope my message finds you in your best health ...",
+      "content": "Dear Sam, I hope my message finds you in your best health. Following our call, please find the attached list of documents required for the insurance renewal process.",
+      "time": "02/Feb/2026",
+      "read": true
+    },
+    {
+      "id": "5",
+      "sender": "Christine Woods",
+      "senderEmail": "c.woods@global.org",
+      "subject": "Update Request",
+      "preview": "Dear Sam, I would like you to prepare a detailed project up...",
+      "content": "Dear Sam, I would like you to prepare a detailed project update for the upcoming board meeting. Please focus on the Q1 milestones and budget allocation.",
+      "time": "22/Dec/2025",
+      "read": true
+    },
+    {
+      "id": "6",
+      "sender": "Marcus Vane",
+      "senderEmail": "m.vane@creative-studio.io",
+      "subject": "Design Prototype Review",
+      "preview": "Hey Sam, the first draft of the mobile app prototype is ready...",
+      "content": "Hey Sam, the first draft of the mobile app prototype is ready for your review. Let's hop on a call tomorrow at 10 AM to go over the user flow.",
+      "time": "2 hours ago",
+      "read": false
+    },
+    {
+      "id": "7",
+      "sender": "Elena Rodriguez",
+      "senderEmail": "elena.r@fin-tech.com",
+      "subject": "Invoicing for January",
+      "preview": "Attached is the invoice for services rendered in January...",
+      "content": "Hi Sam, please find the attached invoice for the month of January. Let me know if you have any questions regarding the billable hours.",
+      "time": "Yesterday",
+      "read": true
+    },
+    {
+      "id": "8",
+      "sender": "Tech Support",
+      "senderEmail": "support@nanovoltz.com",
+      "subject": "System Maintenance Alert",
+      "preview": "Please be advised that we will be performing scheduled mainte...",
+      "content": "Dear user, our servers will undergo scheduled maintenance this Sunday from 2:00 AM to 4:00 AM UTC. Expect intermittent service during this window.",
+      "time": "05/Feb/2026",
+      "read": true
+    },
+    {
+      "id": "9",
+      "sender": "Liam Thorne",
+      "senderEmail": "liam.t@recruitment.com",
+      "subject": "New Candidate for Dev Position",
+      "preview": "I've found a great candidate who fits the senior front-end ro...",
+      "content": "Hi Sam, I've found a great candidate for the senior front-end role. Their portfolio includes several React/MUI projects similar to our current stack.",
+      "time": "Now",
+      "read": false
+    },
+    {
+      "id": "10",
+      "sender": "Sophie Chen",
+      "senderEmail": "s.chen@market-insights.com",
+      "subject": "Q4 Competitor Analysis",
+      "preview": "The latest analysis shows a significant shift in the market...",
+      "content": "Sam, the Q4 analysis is in. Our competitors have started moving toward AI-integrated mail clients. We should consider our strategy for the next sprint.",
+      "time": "Yesterday",
+      "read": false
+    },
+    {
+      "id": "11",
+      "sender": "Robert Miller",
+      "senderEmail": "robert@legal-pros.com",
+      "subject": "Updated Terms of Service",
+      "preview": "Please review the revised terms of service for the platform...",
+      "content": "Hello Sam, we have updated our Terms of Service to comply with the new data protection regulations. Please review the changes at your earliest convenience.",
+      "time": "28/Jan/2026",
+      "read": true
+    },
+    {
+      "id": "12",
+      "sender": "Alice Gower",
+      "senderEmail": "alice@events-pro.com",
+      "subject": "Team Building Dinner",
+      "preview": "We are planning a dinner for the team next Friday. Let us kno...",
+      "content": "Hi Team, we're organizing a dinner to celebrate our recent launch. Please fill out the RSVP form and list any dietary restrictions by Wednesday.",
+      "time": "Today",
+      "read": false
+    }
+  ]
+}
