@@ -1,8 +1,8 @@
 import { useState, useMemo } from 'react';
-import { type Email, type FilterType } from '../types/index';
+import type { Email, FilterType } from '../types/index';
 import messagesData from '../data/messages.json';
 
-export const useEmails = () => {
+export const useEmails = () =>{
   const [emails, setEmails] = useState<Email[]>(messagesData.emails as Email[]);
   const [filter, setFilter] = useState<FilterType>('All');
   const [searchTerm, setSearchTerm] = useState('');
